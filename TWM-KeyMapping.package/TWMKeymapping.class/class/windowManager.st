@@ -1,0 +1,3 @@
+accessing
+windowManager
+	^ TilingWM instanceForCurrentWorld
