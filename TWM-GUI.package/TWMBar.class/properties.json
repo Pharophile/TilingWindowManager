@@ -5,7 +5,7 @@
 	"classvars" : [
 		"Default",
 		"ShowTWMBar" ],
-	"commentStamp" : "LaurentLaffont 5/29/2011 10:21",
+	"commentStamp" : "PhilippeBack 10/24/2016 00:17",
 	"instvars" : [
 		"dock",
 		"wm",

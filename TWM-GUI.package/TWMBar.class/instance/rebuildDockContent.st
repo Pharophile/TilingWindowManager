@@ -37,8 +37,9 @@ rebuildDockContent
 		addMorph: (self newMonticellosMenu);
 		addMorph: (self newWorkspacesMenu);
 		addMorph: (self newBrowsersMenu);
-		addMorph: (self newWindowsMenu);
+		addMorph: (self newWindowsMenu).
 		
-		addMorph: self newFixedSpacer;
+		" Until we can fix the World menu integration, this is disabled "
+		"addMorph: self newFixedSpacer;
 		
-		addMorph: (self newWorldMenu).
+		addMorph: (self newWorldMenu)."
