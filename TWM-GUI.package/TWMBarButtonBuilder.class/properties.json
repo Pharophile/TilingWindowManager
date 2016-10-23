@@ -1,0 +1,15 @@
+{
+	"category" : "TWM-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 6/15/2011 13:46",
+	"instvars" : [
+		"button",
+		"priority" ],
+	"name" : "TWMBarButtonBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

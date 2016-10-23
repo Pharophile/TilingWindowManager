@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "LaurentLaffont 5/19/2015 09:22",
+	"instvars" : [
+		"groupWindowMorph" ],
+	"name" : "TWMDockingWindowMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

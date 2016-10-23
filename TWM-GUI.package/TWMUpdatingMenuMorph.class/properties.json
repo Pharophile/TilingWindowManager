@@ -1,0 +1,15 @@
+{
+	"category" : "TWM-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 2/23/2010 21:11",
+	"instvars" : [
+		"updater",
+		"updateSelector" ],
+	"name" : "TWMUpdatingMenuMorph",
+	"pools" : [
+		 ],
+	"super" : "DockingBarMenuMorph",
+	"type" : "normal" }

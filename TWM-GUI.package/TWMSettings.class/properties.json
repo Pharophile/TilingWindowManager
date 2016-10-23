@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 5/27/2011 23:20",
+	"instvars" : [
+		 ],
+	"name" : "TWMSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+icon
+tileLastUsedWindowsIcon
+	^ self newIconWithString: '««'.

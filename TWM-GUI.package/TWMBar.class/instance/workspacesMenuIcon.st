@@ -1,0 +1,3 @@
+icon
+workspacesMenuIcon 
+	^ Workspace taskbarIcon

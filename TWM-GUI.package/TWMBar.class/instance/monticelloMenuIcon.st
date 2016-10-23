@@ -1,0 +1,3 @@
+icon
+monticelloMenuIcon 
+	^  MCWorkingCopyBrowser taskbarIcon

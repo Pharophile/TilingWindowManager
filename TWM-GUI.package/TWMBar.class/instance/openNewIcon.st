@@ -1,0 +1,3 @@
+icon
+openNewIcon
+	^  self newIconWithString: '+'.

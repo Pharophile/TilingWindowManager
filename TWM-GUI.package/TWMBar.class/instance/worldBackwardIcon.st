@@ -1,0 +1,3 @@
+icon
+worldBackwardIcon
+	^ self newIconWithString: '<'.

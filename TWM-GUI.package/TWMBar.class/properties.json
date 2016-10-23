@@ -1,0 +1,19 @@
+{
+	"category" : "TWM-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"ShowTWMBar" ],
+	"commentStamp" : "LaurentLaffont 5/29/2011 10:21",
+	"instvars" : [
+		"dock",
+		"wm",
+		"worldRecorder",
+		"worldManager",
+		"buttonsCollector" ],
+	"name" : "TWMBar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
