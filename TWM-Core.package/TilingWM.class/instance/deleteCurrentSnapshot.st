@@ -1,0 +1,3 @@
+history
+deleteCurrentSnapshot
+	worldRecorder deleteCurrentSnapshot.

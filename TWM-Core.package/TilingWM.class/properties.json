@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LayoutStrategy",
+		"NumberOfLastUsedWindows" ],
+	"commentStamp" : "LaurentLaffont 5/24/2011 22:12",
+	"instvars" : [
+		"world",
+		"worldRecorder" ],
+	"name" : "TilingWM",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

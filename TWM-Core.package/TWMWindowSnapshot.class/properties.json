@@ -1,0 +1,17 @@
+{
+	"category" : "TWM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 5/28/2011 17:49",
+	"instvars" : [
+		"window",
+		"bounds",
+		"shouldRestoreMinimized",
+		"shouldRestoreMaximized" ],
+	"name" : "TWMWindowSnapshot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

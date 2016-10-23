@@ -1,0 +1,3 @@
+layout strategy
+defaultLayoutStrategy
+	^ TWMHorizontalLayoutStrategy.

@@ -1,0 +1,1 @@
+I place the windows in a grid, by row and column, in the order of last used window (last used first). Top left window fill all vertical space left.

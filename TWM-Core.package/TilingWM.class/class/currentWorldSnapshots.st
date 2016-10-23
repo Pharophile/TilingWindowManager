@@ -1,0 +1,3 @@
+accessing
+currentWorldSnapshots
+	^ self instanceForCurrentWorld snapshots

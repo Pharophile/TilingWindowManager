@@ -1,0 +1,3 @@
+world
+switchToNextWorld 
+	TWMWorldManager instance switchToNextWorld 

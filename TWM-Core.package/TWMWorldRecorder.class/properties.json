@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Core",
+	"classinstvars" : [
+		"world" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LaurentLaffont 5/31/2011 22:57",
+	"instvars" : [
+		"world",
+		"snapshots",
+		"currentPosition" ],
+	"name" : "TWMWorldRecorder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
