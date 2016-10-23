@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Theme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TWMUIThemeIcons",
+	"pools" : [
+		 ],
+	"super" : "ThemeIcons",
+	"type" : "normal" }

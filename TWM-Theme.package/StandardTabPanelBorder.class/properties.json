@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Theme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StandardTabPanelBorder",
+	"pools" : [
+		 ],
+	"super" : "TabPanelBorder",
+	"type" : "normal" }
