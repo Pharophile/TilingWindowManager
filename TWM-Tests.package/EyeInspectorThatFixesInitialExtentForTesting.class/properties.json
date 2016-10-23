@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EyeInspectorThatFixesInitialExtentForTesting",
+	"pools" : [
+		 ],
+	"super" : "EyeInspector",
+	"type" : "normal" }

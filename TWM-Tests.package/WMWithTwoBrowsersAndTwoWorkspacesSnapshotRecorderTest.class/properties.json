@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"worldRecorder" ],
+	"name" : "WMWithTwoBrowsersAndTwoWorkspacesSnapshotRecorderTest",
+	"pools" : [
+		 ],
+	"super" : "WMWithTwoBrowsersAndTwoWorkspacesTest",
+	"type" : "normal" }

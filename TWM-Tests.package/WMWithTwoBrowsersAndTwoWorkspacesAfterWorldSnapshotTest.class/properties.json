@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"worldSnapshot" ],
+	"name" : "WMWithTwoBrowsersAndTwoWorkspacesAfterWorldSnapshotTest",
+	"pools" : [
+		 ],
+	"super" : "WMWithTwoBrowsersAndTwoWorkspacesTest",
+	"type" : "normal" }

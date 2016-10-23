@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"taskBar",
+		"obbrowser",
+		"leftBar" ],
+	"name" : "WMWithAnOBBrowserAndDockingBarsTest",
+	"pools" : [
+		 ],
+	"super" : "WMInANewWorldTestCase",
+	"type" : "normal" }

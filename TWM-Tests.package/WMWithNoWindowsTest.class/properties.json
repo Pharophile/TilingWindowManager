@@ -1,0 +1,14 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WMWithNoWindowsTest",
+	"pools" : [
+		 ],
+	"super" : "WMInANewWorldTestCase",
+	"type" : "normal" }

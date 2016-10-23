@@ -1,0 +1,18 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TWMTestHelpers classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"twmBar",
+		"classFactory",
+		"testClassWithButtons" ],
+	"name" : "TWMBarInANewWorldTest",
+	"pools" : [
+		 ],
+	"super" : "WMInANewWorldTestCase",
+	"traitcomposition" : "TWMTestHelpers",
+	"type" : "normal" }

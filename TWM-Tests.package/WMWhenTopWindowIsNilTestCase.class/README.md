@@ -1,0 +1,1 @@
+To test window manager when top window is nil.

@@ -1,0 +1,3 @@
+tests
+testWorkspaceMenuShouldContainsNewWorkspaceEntry
+	self assertMenuWithIcon: twmBar workspacesMenuIcon containsItemNamed: 'New workspace'.

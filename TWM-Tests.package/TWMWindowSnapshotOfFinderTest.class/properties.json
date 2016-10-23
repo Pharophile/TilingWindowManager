@@ -1,0 +1,15 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"finder",
+		"snapshot" ],
+	"name" : "TWMWindowSnapshotOfFinderTest",
+	"pools" : [
+		 ],
+	"super" : "WMInANewWorldTestCase",
+	"type" : "normal" }

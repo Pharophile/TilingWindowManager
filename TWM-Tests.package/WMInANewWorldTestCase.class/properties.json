@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"testWorld",
+		"windowManager",
+		"backupLayoutStrategy" ],
+	"name" : "WMInANewWorldTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

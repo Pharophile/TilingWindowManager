@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TWMTestHelpers classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"twmBar" ],
+	"name" : "TWMBarWithTwoBrowsersAndTwoWorkspacesTest",
+	"pools" : [
+		 ],
+	"super" : "WMWithTwoBrowsersAndTwoWorkspacesTest",
+	"traitcomposition" : "TWMTestHelpers",
+	"type" : "normal" }

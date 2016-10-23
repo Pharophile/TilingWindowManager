@@ -1,0 +1,3 @@
+move tests
+testTopWindowMoveBottomRight
+	windowManager topWindowMoveBottomRight.

@@ -1,0 +1,16 @@
+{
+	"category" : "TWM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transcript",
+		"monticello",
+		"inspector" ],
+	"name" : "WMWithInspectorTranscriptAndMonticello",
+	"pools" : [
+		 ],
+	"super" : "WMInANewWorldTestCase",
+	"type" : "normal" }
