@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfTilingWindowManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "LaurentLaffont 4/18/2012 21:49",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfTilingWindowManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
