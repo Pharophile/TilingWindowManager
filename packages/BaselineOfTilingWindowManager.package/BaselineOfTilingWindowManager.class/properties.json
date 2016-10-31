@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTilingWindowManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTilingWindowManager",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
