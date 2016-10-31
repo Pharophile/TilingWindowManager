@@ -6,12 +6,13 @@ baseline: spec
 		spec blessing: #baseline.
 		spec
 			package: 'TWM-Core';
-			package: 'TWM-GUI';
-			package: 'TWM-KeyMapping';
+			package: 'TWM-GUI' with: [spec requires: 'TWM-Core'];
+			package: 'TWM-KeyMapping' with: [spec requires: 'TWM-GUI'];
+			package: 'TWM-Tests' with: [spec requires: #('TWM-GUI' 'TWM-KeyMapping')];
+			package: 'TWM-Theme';
 			postLoadDoIt: #openTWMBar.
 
-		spec
-			group: 'default' with: #('TWM-Core' 'TWM-GUI' 'TWM-KeyMapping').
-		spec
-			group: 'tests' with: #('TWM-Tests').
+		spec 
+			group: 'default' with: #('ALL');
+			group: 'core' with: #('TWM-GUI')
       ]
