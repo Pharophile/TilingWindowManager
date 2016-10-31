@@ -1,8 +1,13 @@
 # TilingWindowManager
 Pharo Tiling Window Manager
 
-Once loaded, issue:
-
 ```Smalltalk
-  TWMBar open.
+Metacello new
+    githubUser: 'pharophile' 
+    project: 'TilingWindowManager' 
+    commitish: 'master' 
+    path: 'packages';
+    baseline: 'TilingWindowManager';
+    onWarningLog;
+    load
 ```
