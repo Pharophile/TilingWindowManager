@@ -1,0 +1,1 @@
+I am a baseline of TilingWindowManager, read more at: https://github.com/pharophile/TilingWindowManager
