@@ -1,3 +1,0 @@
-filter
-windows
-	^ world systemWindows

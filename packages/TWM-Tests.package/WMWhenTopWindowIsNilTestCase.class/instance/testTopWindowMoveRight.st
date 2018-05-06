@@ -1,3 +1,0 @@
-move tests
-testTopWindowMoveRight
-	windowManager topWindowMoveRight.

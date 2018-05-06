@@ -1,1 +1,0 @@
-I open a window used to browse and restore world snapshots

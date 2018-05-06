@@ -1,1 +1,0 @@
-I remember the state of a SystemWindow (bounds, minimized / maximized) and I'm able to restore it later.

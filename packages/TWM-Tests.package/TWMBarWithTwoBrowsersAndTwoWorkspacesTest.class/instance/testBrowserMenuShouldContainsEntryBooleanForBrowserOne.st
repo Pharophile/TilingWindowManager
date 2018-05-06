@@ -1,3 +1,0 @@
-tests
-testBrowserMenuShouldContainsEntryBooleanForBrowserOne
-	self assertMenuWithIcon: twmBar browsersMenuIcon containsItemNamed: 'Boolean'.

@@ -1,3 +1,0 @@
-icon
-openNewIcon
-	^  self newIconWithString: '+'.

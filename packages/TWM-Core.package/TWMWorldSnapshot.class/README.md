@@ -1,1 +1,0 @@
-I remember the state of all the windows opened in a World and I'm able to restore it later.

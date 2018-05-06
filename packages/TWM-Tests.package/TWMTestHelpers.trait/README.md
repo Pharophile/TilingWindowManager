@@ -1,1 +1,0 @@
-I define useful method to search submorphs of TWMBar for testing

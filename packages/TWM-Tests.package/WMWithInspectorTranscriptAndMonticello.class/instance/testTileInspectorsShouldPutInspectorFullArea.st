@@ -1,4 +1,0 @@
-tile tests
-testTileInspectorsShouldPutInspectorFullArea
-	windowManager tileInspectors.
-	self assertWindowFillArea: inspector.

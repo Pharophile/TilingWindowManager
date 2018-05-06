@@ -1,3 +1,0 @@
-history
-snapshotWorld
-	worldRecorder snapshot

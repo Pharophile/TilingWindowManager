@@ -1,3 +1,0 @@
-tests
-testBrowserOneShouldBeMinimized
-	self assert: browser1 isMinimized

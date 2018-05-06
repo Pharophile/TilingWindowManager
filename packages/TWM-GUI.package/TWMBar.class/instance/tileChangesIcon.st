@@ -1,3 +1,0 @@
-icon
-tileChangesIcon 
-	^ ChangeList taskbarIcon
