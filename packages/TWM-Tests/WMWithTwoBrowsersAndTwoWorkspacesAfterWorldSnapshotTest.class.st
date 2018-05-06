@@ -41,12 +41,6 @@ WMWithTwoBrowsersAndTwoWorkspacesAfterWorldSnapshotTest >> testShouldBeEqualsOth
 ]
 
 { #category : #tests }
-WMWithTwoBrowsersAndTwoWorkspacesAfterWorldSnapshotTest >> testShouldNotBeEqualsOtherSnapshotAfterMovingAWorkspace. [
-	workspace1 maximize.
-	self deny: (worldSnapshot = (TWMWorldSnapshot of: testWorld)).
-]
-
-{ #category : #tests }
 WMWithTwoBrowsersAndTwoWorkspacesAfterWorldSnapshotTest >> testVisibleWindowsShouldReturnWorkspaceTwoAndOne [
 	self assert:  {workspace2. workspace1} equals: worldSnapshot  visibleWindows. 
 ]
