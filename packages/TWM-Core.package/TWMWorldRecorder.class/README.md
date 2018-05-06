@@ -1,1 +1,0 @@
-I create and store snapshots of the world, so you can go back and forth between different windows / world contexts

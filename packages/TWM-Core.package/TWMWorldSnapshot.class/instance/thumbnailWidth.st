@@ -1,3 +1,0 @@
-accessing
-thumbnailWidth
-	^ 200

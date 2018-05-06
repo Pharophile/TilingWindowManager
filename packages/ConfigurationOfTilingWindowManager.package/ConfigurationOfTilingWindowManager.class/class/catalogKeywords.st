@@ -1,4 +1,0 @@
-catalog
-catalogKeywords
-	^ #(IDE)
-	

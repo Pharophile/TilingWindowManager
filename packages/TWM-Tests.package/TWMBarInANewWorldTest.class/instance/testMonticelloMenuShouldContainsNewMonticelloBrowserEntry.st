@@ -1,3 +1,0 @@
-tests
-testMonticelloMenuShouldContainsNewMonticelloBrowserEntry
-	self assertMenuWithIcon: twmBar monticelloMenuIcon containsItemNamed: 'New Monticello browser'.

@@ -1,3 +1,0 @@
-tests
-testOtherToolsMenuShouldContainsEntryForOpeningSUnitTestRunner
-	self assertMenuWithIcon: twmBar otherToolsMenuIcon containsItemNamed: 'New TestRunner'.

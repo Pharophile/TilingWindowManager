@@ -1,4 +1,0 @@
-tile tests
-testTileMonticellosShouldPutMCFullArea
-	windowManager tileMonticellos.
-	self assertWindowFillArea: monticello.

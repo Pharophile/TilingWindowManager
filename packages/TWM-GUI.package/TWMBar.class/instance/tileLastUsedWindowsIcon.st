@@ -1,3 +1,0 @@
-icon
-tileLastUsedWindowsIcon
-	^ self newIconWithString: '««'.

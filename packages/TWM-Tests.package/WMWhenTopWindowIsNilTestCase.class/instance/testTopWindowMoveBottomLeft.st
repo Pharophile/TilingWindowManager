@@ -1,3 +1,0 @@
-move tests
-testTopWindowMoveBottomLeft
-	windowManager topWindowMoveBottomLeft.

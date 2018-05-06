@@ -1,3 +1,0 @@
-custom-buttons
-pragmaButtonKeyword 
-	^ 'twmBarButton'

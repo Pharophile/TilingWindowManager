@@ -1,3 +1,0 @@
-requirements
-twmBar
-	self explicitRequirement

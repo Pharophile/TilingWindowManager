@@ -1,3 +1,0 @@
-tests-keymapping-settings
-testKeymappingRepositoryShourdIncludeCategoryNamedtwmShortcuts
-	self assert: (KMRepository default includesCategoryNamed: #twmShortcuts) 

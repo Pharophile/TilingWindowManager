@@ -1,3 +1,0 @@
-accessing
-dock
-	^ dock

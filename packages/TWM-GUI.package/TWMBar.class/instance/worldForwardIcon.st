@@ -1,3 +1,0 @@
-icon
-worldForwardIcon
-	^ self newIconWithString: '>'.

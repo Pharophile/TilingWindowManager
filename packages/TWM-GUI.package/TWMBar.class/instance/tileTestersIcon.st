@@ -1,3 +1,0 @@
-icon
-tileTestersIcon 
-	^ TestRunner taskbarIcon
