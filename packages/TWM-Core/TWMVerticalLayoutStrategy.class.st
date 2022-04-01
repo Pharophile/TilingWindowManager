@@ -24,7 +24,7 @@ TWMVerticalLayoutStrategy >> tileWindows: windows [
 	windowWidth := clearArea width // numberOfColumns..
 	windowHeight := clearArea height // numberOfRows.
 	
-	Matrix 
+	Array2D 
 		rows: numberOfColumns 
 		columns: numberOfRows 
 		tabulate: 	[:column :row| 
